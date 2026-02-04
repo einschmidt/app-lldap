@@ -3,7 +3,7 @@ name: "LLDAP"
 version: "dev"
 slug: "lldap"
 description: "Lightweight Authentication Server"
-url: "https://github.com/einschmidt/addon-lldap"
+url: "https://github.com/einschmidt/app-lldap"
 arch:
   - amd64
   - aarch64

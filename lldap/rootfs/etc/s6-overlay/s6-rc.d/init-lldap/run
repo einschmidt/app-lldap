@@ -1,7 +1,7 @@
 #!/command/with-contenv bashio
 # shellcheck shell=bash
 # ==============================================================================
-# Home Assistant Add-on: LLDAP
+# Home Assistant App: LLDAP
 # Configures LLDAP before running
 # ==============================================================================
 
