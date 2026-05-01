@@ -6,7 +6,7 @@ FROM $BUILD_FROM
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 
 # https://github.com/lldap/lldap/releases
-ENV LLDAP_VERSION="v0.6.2"
+ENV LLDAP_VERSION="v0.6.3"
 
 # Install lldap
 ARG BUILD_ARCH=amd64
